@@ -39,7 +39,7 @@ NeonCrm.create_account("first_name" => user.first_name, "last_name" => user.last
 ```
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/neon_crm/fork )
+1. Fork it ( http://github.com/ZuevEvgenii/neon_crm/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
