@@ -1,6 +1,6 @@
 # NeonCrm
 
-Provides login and create account by [NeonCRM](www.z2systems.com) API
+Provides login and create account by [NeonCRM](http://www.z2systems.com) API
 
 ## Installation
 
@@ -47,4 +47,4 @@ NeonCrm.create_account("first_name" => user.first_name, "last_name" => user.last
 
 ## Say Thank You
 
-If you want to say thank you, please support the petition to designate [25june](25june.org/en/signatures/new) as Vitiligo World Day and save millions of people worldwide from social isolation and persecution.
+If you want to say thank you, please support the petition to designate [25june](http://25june.org/en/signatures/new) as Vitiligo World Day and save millions of people worldwide from social isolation and persecution.
