@@ -1,0 +1,9 @@
+development:
+  neoncrm:
+    api_key: "your_api_key"
+    org_id: "your_org_id"
+
+production:
+  neoncrm:
+    api_key: "your_api_key"
+    org_id: "your_org_id"
