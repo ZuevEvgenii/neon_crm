@@ -4,7 +4,7 @@ module NeonCrm
       source_root File.expand_path("../templates", __FILE__)
 
       def copy_networks
-        template "networks.yml", "config/#{file_name}.yml"
+        template "networks.yml", "config/networks.yml"
       end
     end
   end
