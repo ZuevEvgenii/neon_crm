@@ -6,7 +6,7 @@ Provides login and create account by [NeonCRM](http://www.z2systems.com) API
 
 ![carbonvalley logo](http://community.sk.ru/cfs-filesystemfile.ashx/__key/communityserver-components-secureimagefileviewer/skl-entities-files-97e01657_2D00_212a_2D00_4cde_2D00_93db_2D00_2f7869011e4d/logo_2D00_cube.png_2D00_300x150.png)
 
-It was originally developed by carbonvalley/ team.
+It was originally developed by carbonvalley team.
 
 ## Installation
 
